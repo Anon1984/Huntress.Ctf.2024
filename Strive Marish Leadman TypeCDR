@@ -1,0 +1,26 @@
+We are provided with some info and a telnet link.
+- It's an rsa crypto
+When we connect to te url you get teh following back.
+
+p: 0xd86091dff0e5669ea42e1d5d57d581d9c835a8e0b97675f1dab24819224d7b882a5b916ea2dd0cf4bc4a053fd1299cec6136fafdd81b759dd6a51907b9fa01c9
+q: 0xcf0d9bd35900a257a41062051a8a6c887b1c5b14eb7656fcd69c33d33a48e93a67b1b072b515c4874b7da12116fa15e75017789d4accf646e127913aa8c35b5b
+d: 0x7b77f65f0ab05a0d8b922cf291f5ae924dd4a023ad551678323515abf0d4509842dd56bd130d660b48f3bc6a02e979ab733487f4f8c26d6438dba4bc4a4f9ae2509ecdcc673e3cb66866f8f6e79c66a7b81222ad5b31ee9dd885320868ed0992dc1b667cdc69e9a720bb7a4d131498d911e1f9805ce26fa6c79f0bea281e4911
+e: 0x10001
+n: 0xaf019690974da7fcf99202ce4202843fd446bf67b470812518133904595d15cfed6d7f38064da9e881fefff88e1193a142cfa78ddc0a991aabef8818d7e88248cc3a573e4830f7e55fb047549609caf5f3e3e3a7da5f4dc51ce1122fd921dd9906e649b1a7cd8e8623116bc52ad5262bc4cffd7a1e1f824bcbcaa0003e9c1573
+
+Ciphertext:
+0x960fc174f3cdf0e7d9d4e7b6d08193aafe472e8481cdd4aa5ee7f60aa13f443b58d173842e479fb6ec39bf0fbf3490100a530202ed4b03a4e25a6f8fa57c97659a5e75ddab27306b7577157a0eaf26c695364d56abee2196933eb1b31089b2fc59bc538906eb03bb9c96617fa114330bc9e6312d7339105d581e8e9f567714cc
+
+Given Data
+
+Private Key Components:
+
+P: One of the prime factors of the modulus N.
+Q: The other prime factor of the modulus N.
+D: The private exponent used for decryption.
+E: The public exponent (typically not needed for decryption).
+N: The modulus, calculated as N=PxQ
+
+Ciphertext: The encrypted message in hexadecimal format.
+
+I used a python script to solve this.
