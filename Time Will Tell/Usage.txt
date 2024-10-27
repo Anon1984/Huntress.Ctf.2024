@@ -1,0 +1,16 @@
+Explanation of the Code
+Connection Setup: The script uses Python's socket library to establish a persistent connection to the server.
+Timing Measurement: Each guess sent to the server is timed, and the timing data helps determine if the guess is partially correct.
+Incremental Guessing: The password is built incrementally, character by character. For each position, the character with the longest response time is assumed correct and added to the partial password.
+Usage
+Clone this repository.
+Run the script with Python 3:
+bash
+Copy code
+python3 guess_password.py
+The script will display progress as it guesses each character and outputs the flag when the password is fully guessed.
+Results and Takeaways
+This timing-based attack successfully deduced the password and retrieved the flag within a single session, demonstrating how small timing discrepancies can leak sensitive information.
+
+Security Implications
+Timing-based attacks highlight the importance of designing systems that handle sensitive information in a constant-time manner to prevent information leakage through side channels. This challenge serves as a practical example of the risks of timing vulnerabilities and the need for constant-time comparison functions in security-sensitive applications.
