@@ -1,0 +1,93 @@
+Pinging IP addresses... 
+
+Pinging 102.108.97.103 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 102.108.97.103:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 123.54.100.49 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 123.54.100.49:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 98.54.48.52 with 32 bytes of data:
+Reply from 98.54.48.52: bytes=32 time=125ms TTL=47
+Reply from 98.54.48.52: bytes=32 time=130ms TTL=47
+Reply from 98.54.48.52: bytes=32 time=126ms TTL=47
+Reply from 98.54.48.52: bytes=32 time=125ms TTL=47
+
+Ping statistics for 98.54.48.52:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 125ms, Maximum = 130ms, Average = 126ms
+
+Pinging 98.98.49.98 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 98.98.49.98:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 54.100.97.51 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 54.100.97.51:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 50.98.56.98 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 50.98.56.98:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 98.99.97.57 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 98.99.97.57:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 101.50.54.100 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 101.50.54.100:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 53.49.53.56 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 53.49.53.56:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 57.125.35.35 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 57.125.35.35:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
