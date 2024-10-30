@@ -64,8 +64,7 @@ This solution demonstrates how I used registry analysis and encoding/decoding te
 ### Files
 
 - `NTUSER.DAT` – Provided by the challenge
-- `report.txt` – Regripper output file (not included in this repo)
-
+- `report.txt` – Regripper output file
 ### Tools Used
 
 - [Regripper](https://github.com/keydet89/RegRipper2.8)
@@ -75,4 +74,4 @@ This solution demonstrates how I used registry analysis and encoding/decoding te
 
 ### Author
 
-Written by [Your GitHub Username]
+Written by Anon1984
