@@ -1,0 +1,7 @@
+curl -H "Authorization: Basic YmFja2Rvb3I6dGhpc19pc190aGVfaHR0cF9zZXJ2ZXJfc2VjcmV0" http://challenge.ctf.games:31439/
+<!-- ZWNobyBmbGFne2UxNWE2YzAxNjhlZTRkZTczODFmNTAyNDM5MDE0MDMyfQ== -->
+
+Feed the base64 string ZWNobyBmbGFne2UxNWE2YzAxNjhlZTRkZTczODFmNTAyNDM5MDE0MDMyfQ== in cyberchef
+
+Get result
+echo flag{e15a6c0168ee4de7381f502439014032}
